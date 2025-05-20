@@ -1,0 +1,5 @@
+# Ignorar todo el contenido de carpeta2/
+input/filelists/*
+
+# ¡Excepto este archivo específico!
+!input/filelists/make_filelists_cps.sh
